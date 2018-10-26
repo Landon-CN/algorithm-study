@@ -2,7 +2,7 @@
 
 ## 二叉搜索树
 - avl树
-- 红黑树
+- 红黑树 可视化过程: https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
 
 
 # TODO
